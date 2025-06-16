@@ -115,7 +115,7 @@ Puedes usar el servidor web incorporado de PHP para desarrollo:
 3.  Inicia el servidor PHP:
 
     ```bash
-    php -S localhost:8000
+    php -S localhost:8000 -t src/
     ```
 
 ---
